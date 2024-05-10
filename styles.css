@@ -1,0 +1,71 @@
+/*  tarjetas de productos */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    display: inline-block;
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /*  botones de las tarjetas */
+  .btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /*  carrito de compras */
+  #carrito {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #carrito th,
+  #carrito td {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #carrito th {
+    background-color: #f2f2f2;
+  }
+  
+  /*  footer del carrito */
+  #footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #ddd;
+  }
+  
+  #footer button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  #footer button:hover {
+    background-color: #c82333;
+  }
+  

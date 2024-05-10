@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 4500,
+      "id": 1,
+      "title": "Mermelada de Membrillo",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/f9624898f7414562b832e18d73e40ab7.jpg"
+    },
+    {
+      "precio": 4650,
+      "id": 2,
+      "title": "Mermelada de Ciruela",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/f9624898f7414562b832e18d73e40ab7.jpg"
+    },
+    {
+      "precio": 3800,
+      "id": 3,
+      "title": "Mermelada de Damasco",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/5fdbc15b45d6ff6eca3e7966b3a055e5.jpg"
+    },
+    {
+      "precio": 4000,
+      "id": 4,
+      "title": "Mermelada de Durazno",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/5bb4f60923947f001eafdcc840b284a0.jpg"
+    },
+    {
+      "precio":4550,
+      "id": 5,
+      "title": "Mermelada de Naranja",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/28627c022a8f903c18bd13cdaaee38fd.jpg"
+    },
+    {
+      "precio": 4950,
+      "id": 6,
+      "title": "Mermelada de Frutilla",
+      "thumbnailUrl": "https://lacampagnola.com/uploads/products/c4c884ed5f5dedafa78c3047a89e5987.jpg"
+    }
+  ]

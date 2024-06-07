@@ -1,3 +1,6 @@
+
+
+
 const templateCard = document.getElementById('template-card').content
 const templateCarrito = document.getElementById('template-carrito').content
 const templateFooter = document.getElementById('template-footer').content
@@ -130,7 +133,17 @@ const pintarFooter = () => {
 
     const botonVaciarCarrito = document.getElementById('vaciar-carrito')
     botonVaciarCarrito.addEventListener('click', () => {
+
+        Swal.fire({
+            title: 'Vaciar',
+            text: '¿Estás seguro?',
+            icon: 'warning',
+            confirmButtonText: 'Aceptar'
+          })
+          
         carrito = {}
         llenarCarrito()
     })
 }
+
+
